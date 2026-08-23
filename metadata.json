@@ -1,0 +1,6 @@
+{
+  "name": "Koushik Trading Journal",
+  "description": "A professional trading journal and performance analytics app for intraday trading with offline Room database, calendar analytics, and equity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
